@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "431362464554",
+    "firebase_url": "https://covid-3cafd.firebaseio.com",
+    "project_id": "covid-3cafd",
+    "storage_bucket": "covid-3cafd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431362464554:android:8cf2a2745c89ba2c46dc53",
+        "android_client_info": {
+          "package_name": "br.com.zetadev.covid.covid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431362464554-pvkvugovsne7hjn4njr9u0e7bln9a5mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO1ooPVgIdz9cyoaMyo7jzUXdKxyeqEgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431362464554-pvkvugovsne7hjn4njr9u0e7bln9a5mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7746702946152949~6914436794"
+    }
+  ],
+  "configuration_version": "1"
+}

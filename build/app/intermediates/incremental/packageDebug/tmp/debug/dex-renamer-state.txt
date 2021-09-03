@@ -1,0 +1,7 @@
+#Fri Sep 03 19:14:09 BRT 2021
+base.1=/home/bruno/Área de Trabalho/projetos pro github/covid/build/app/intermediates/dex/debug/mergeDexDebug/out/classes2.dex
+path.1=classes2.dex
+base.0=/home/bruno/Área de Trabalho/projetos pro github/covid/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
